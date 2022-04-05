@@ -1,5 +1,1 @@
-127.0.0.1 www.getmonero.org
-127.0.0.1 getmonero.org
-127.0.0.1 193.178.172.113
-127.0.0.1 moneroocean.stream
-127.0.0.1 moneroocean.stream127.0.0.1 moneroocean.stream127.0.0.1 moneroocean.stream127.0.0.1 moneroocean.stream127.0.0.1 moneroocean.stream127.0.0.1 moneroocean.stream127.0.0.1 moneroocean.stream
+
