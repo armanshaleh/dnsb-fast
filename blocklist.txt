@@ -1,2 +1,3 @@
-||getmonero.org/^
-||www.getmonero.org/^
+||getmonero.org^
+||moneroocean.stream^
+||kryptex.org^
