@@ -1,4 +1,3 @@
--------start file---------
 ||www.getmonero.org^
 ||getmonero.org^
 ||193.178.172.113^
