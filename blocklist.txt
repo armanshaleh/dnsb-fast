@@ -1,1 +1,2 @@
-||*.getmonero.org/^
+||getmonero.org/^
+||www.getmonero.org/^
