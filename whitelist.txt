@@ -1,2 +1,2 @@
 @@|adguard.as141057.net^$important
-@@|he.net^
+@@|he.net^$important
